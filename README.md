@@ -54,9 +54,9 @@ Professional Magento 2 extension by W3CTRL for enhanced store functionality.
 
 ## 🛒 Purchase & Demo
 
-- **Purchase**: [Buy Now on W3CTRL.com](https://www.w3ctrl.com)
-- **Live Demo**: [Request Demo](https://www.w3ctrl.com/contact-us/)
-- **Documentation**: [View Full Documentation](https://www.w3ctrl.com)
+- **Purchase**: [Buy Now on W3CTRL.com](https://www.w3ctrl.com/shop)
+- **Live Demo**: [Request Demo](https://youtu.be/FXI_TR6pq5c?si=KDRE2As1TQhstnx4)
+- **Documentation**: [View Full Documentation](https://www.w3ctrl.com/product/product-import-from-xml-feed-magento-2/)
 - **Support**: [Submit Ticket](https://www.w3ctrl.com/submit-ticket/)
 
 ---
